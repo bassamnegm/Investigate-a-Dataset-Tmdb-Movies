@@ -4,10 +4,10 @@ In this project, we have to analyze a dataset and then communicate our findings 
 
 What do I need to install? You will need an installation of Python, plus the following libraries:
 
-pandas
-NumPy
-Matplotlib
-csv
+pandas<br>
+NumPy<br>
+Matplotlib<br>
+csv<br>
 It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 Why this Project?
